@@ -1,0 +1,7 @@
+from .user_profile_serializer import UserProfileSerializer
+from .friend_invitation import FriendInvitationSerializer
+from .event_type import EventTypeSerializer
+from .event_date import EventDateSerializer
+from .calendar_event import CalendarEventSerializer
+from .meeting_invitation import MeetingInvitationSerializer
+from .user_email_password import EmailPasswordSerializer

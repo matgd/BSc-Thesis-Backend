@@ -1,0 +1,16 @@
+dist: bionic
+language: python
+python: 3.7
+
+install:
+  - pip install -r soonmeet_api/requirements.txt
+
+script: python3 soonmeet_api/manage.py test --keepdb --noinput -v 2 soonmeet_api
+
+notifications:
+  email:
+    recipients:
+      - *** REMOVED ***
+    on_success: change
+    on_failure: always
+
