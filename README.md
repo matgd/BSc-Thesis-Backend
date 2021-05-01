@@ -2,7 +2,7 @@
 ## Public code
 Notice!
 
-Code in this repository is only for showing my skill and level of knowledge regarding used languages and technologies. It probably won't run due to missing content.  
+Code in this repository is only for showing my skill and level of knowledge regarding used languages and technologies. It probably won't run due to missing content (some credentials have been deleted).  
 
 Keep in mind the majority of work was done from August 2019 to December 2019. There are some things that I would do differently (i.e. improve code style) or add (i.e. missing docstrings, tests) after gaining experience. 
 ### Praca dyplomowa.  
